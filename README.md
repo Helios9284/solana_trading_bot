@@ -1,3 +1,15 @@
+
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run start
+
+
+```
+## Features
 1. User Onboarding and Security Setup
 • Wallet Creation: On issuance of the “/start” command, the bot will
 automatically create a wallet for the user and display the wallet address.
